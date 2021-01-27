@@ -1,0 +1,13 @@
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Get To Know Your Classmates Lab 8\Get To Know Your Classmates Lab 8\bin\Debug\netcoreapp3.1\Get To Know Your Classmates Lab 8.exe
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Get To Know Your Classmates Lab 8\Get To Know Your Classmates Lab 8\bin\Debug\netcoreapp3.1\Get To Know Your Classmates Lab 8.deps.json
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Get To Know Your Classmates Lab 8\Get To Know Your Classmates Lab 8\bin\Debug\netcoreapp3.1\Get To Know Your Classmates Lab 8.runtimeconfig.json
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Get To Know Your Classmates Lab 8\Get To Know Your Classmates Lab 8\bin\Debug\netcoreapp3.1\Get To Know Your Classmates Lab 8.runtimeconfig.dev.json
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Get To Know Your Classmates Lab 8\Get To Know Your Classmates Lab 8\bin\Debug\netcoreapp3.1\Get To Know Your Classmates Lab 8.dll
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Get To Know Your Classmates Lab 8\Get To Know Your Classmates Lab 8\bin\Debug\netcoreapp3.1\Get To Know Your Classmates Lab 8.pdb
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Get To Know Your Classmates Lab 8\Get To Know Your Classmates Lab 8\obj\Debug\netcoreapp3.1\Get To Know Your Classmates Lab 8.csprojAssemblyReference.cache
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Get To Know Your Classmates Lab 8\Get To Know Your Classmates Lab 8\obj\Debug\netcoreapp3.1\Get To Know Your Classmates Lab 8.AssemblyInfoInputs.cache
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Get To Know Your Classmates Lab 8\Get To Know Your Classmates Lab 8\obj\Debug\netcoreapp3.1\Get To Know Your Classmates Lab 8.AssemblyInfo.cs
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Get To Know Your Classmates Lab 8\Get To Know Your Classmates Lab 8\obj\Debug\netcoreapp3.1\Get To Know Your Classmates Lab 8.csproj.CoreCompileInputs.cache
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Get To Know Your Classmates Lab 8\Get To Know Your Classmates Lab 8\obj\Debug\netcoreapp3.1\Get To Know Your Classmates Lab 8.dll
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Get To Know Your Classmates Lab 8\Get To Know Your Classmates Lab 8\obj\Debug\netcoreapp3.1\Get To Know Your Classmates Lab 8.pdb
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Get To Know Your Classmates Lab 8\Get To Know Your Classmates Lab 8\obj\Debug\netcoreapp3.1\Get To Know Your Classmates Lab 8.genruntimeconfig.cache
